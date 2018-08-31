@@ -16,6 +16,8 @@
 % This work consists of the files concrete-book.cls
 % and the derived file main.tex
 
+% Theorem styling is from Legrand Orange Book Template
+
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{concrete-book}
 
